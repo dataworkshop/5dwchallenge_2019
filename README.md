@@ -1,1 +1,1 @@
-# 5dwchallenge_2019
+# [Korona wyzwań uczenia maszynowego](https://dataworkshop.eu/challenge)
